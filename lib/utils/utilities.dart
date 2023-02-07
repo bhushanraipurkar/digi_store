@@ -1,4 +1,4 @@
-import 'package:digi_store/utils/app_constants.dart';
+import 'package:digi_store/utils/utils_export.dart';
 
 class Utilities {
   static String getApiUrl() {
